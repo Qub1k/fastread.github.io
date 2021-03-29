@@ -28,7 +28,7 @@ function example(){
 let speed = 250;
 
 function setSmSpeed(){
-	speed = 500;
+	speed = 333;
 	document.getElementById('curSpeed').innerHTML = 60000/speed;
 	console.log(60000/speed);
 }
